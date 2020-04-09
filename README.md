@@ -1,6 +1,6 @@
 ## Feature Engineering for Machine Learning
 
-feature engineering techniques on:
+*Examples of feature engineering techniques on:*
 
 How to impute your missing data
 
